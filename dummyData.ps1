@@ -1,8 +1,8 @@
 
 # Dataset Directory | Change to your own directory
-$datasetDirectory = "D:\PSScripts\Data"
+$datasetDirectory = "D:\PSScripts\DataSource"
 
-$exportDirectory = "D:\PSScripts"
+$exportDirectory = "D:\PSScripts\DataExport"
 
 # Female First Names 
 $femaleFirstNamesCSV = "femaleNames.csv"
