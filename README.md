@@ -6,7 +6,7 @@ This Script will generate dummy data based upon contents of example CSVs.
 
 ```PowerShell
 # Change to your own directory
-$dataSetDirectory = "fooBarDir"
+$dataSetDirectory = "dataSourceDir"
 
 # Change to your own directory
 $exportDirectory = "dataExportDir"
